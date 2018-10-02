@@ -1,0 +1,8 @@
+
+dsquid:S11924"HDefine a constant instead of duplicating this literal "mercury" 4 times.(š©ÃÊþÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÓÍõo
+gsquid:CommentedOutCodeLine%"<This block of commented-out lines of code should be removed.(Ê²ëüÿÿÿÿ
+bsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(ŽýÙ
+@squid:S1481")Remove this unused "caps" local variable.(‘¥ê¸
+Osquid:S1854"8Remove this useless assignment to local variable "caps".(‘¥ê¸
+\squid:UselessImportCheck"8Remove this unused import 'Pages.InteraccionVuelosPage'.(¤¸™Œ
